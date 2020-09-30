@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UIScenes/MainMenu.unity
+    guid: a5e8629987b51f74998f19e4a82a5006
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect/Level Select.unity
+    guid: dcf3a1ebb39025146b185dfa88529ef4
+  - enabled: 1
+    path: Assets/Scenes/LevelEdit/LevelEditor.unity
+    guid: 2429f9d0e55b1fe48b4511ea8b384ecf
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Multiplayer.unity
+    guid: 805951eea1f4a2b419e9fbf47502c42c
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1.unity
+    guid: e9dfd6506fef9a0429186e0daaf1fce9
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_2.unity
+    guid: f971a4e65c37f9e4ea0ff7c32c8c7721
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_3.unity
+    guid: 4695714d4341fce43919393b60613c9e
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_4.unity
+    guid: f1ffb674f5a78a948bc97c9683ebfed8
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_5.unity
+    guid: e5bca0b2a39e523478947c994ab2cd6a
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_6.unity
+    guid: ce5bddd5daeff1a4b983a8368c85a55f
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_7.unity
+    guid: 0b631a4f8604992439a5477c1ac3e782
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_8.unity
+    guid: 16016a12b01d22c419d821cc8a6a3f1b
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_9.unity
+    guid: ca2c9907b6cd8a34bb60571389375df6
+  - enabled: 1
+    path: Assets/Scenes/Chapter1/Chapter1_10.unity
+    guid: d4f4368dccbbc3648be1952b817877da
+  - enabled: 1
+    path: Assets/Scenes/Level2/Level2.unity
+    guid: 3a9bc8e2175c8f444bb090c995392d39
+  - enabled: 1
+    path: Assets/Scenes/TestLevels/EditorLevel1.unity
+    guid: b4a096ad5ed044643b2b78ab2aca047c
+  - enabled: 1
+    path: Assets/Scenes/UIScenes/RoomSelect.unity
+    guid: 3f392c6644919044082e7134f62d4654
+  - enabled: 1
+    path: Assets/Scenes/TestLevels/VerticalLevel.unity
+    guid: 4bb5ea004401b584d8387fcdd99bb668
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2.unity
+    guid: 3b3ce1c90d43e274f87240ee4e18e712
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_2.unity
+    guid: 6b89a9bd368eb2b41b8bf29463d80243
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_3.unity
+    guid: b9358b5c856b5ec4eb47422dc25117bc
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_4.unity
+    guid: 9cbe5056036b354479107f0077538694
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_5.unity
+    guid: 84ccc9aea01805e498211ef3641004c9
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_6.unity
+    guid: 3fff35b72bdf9ab4788da4dd9b5c9a54
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_7.unity
+    guid: 7979e1b4db726fb41ac955219e0d7241
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_8.unity
+    guid: d4e5080037579b04e9e6aaf32a8af670
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_9.unity
+    guid: 69aa78a626846d34dac244a970037eb2
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_10.unity
+    guid: 93ada71dda53b0742b8ab8db7c8e3f01
+  - enabled: 1
+    path: Assets/Chapter3/Scenes/Chapter2_11.unity
+    guid: c0f85abd04ea4e944bb40ada4a840444
+  m_configObjects: {}

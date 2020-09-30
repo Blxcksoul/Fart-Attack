@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: e7d83a7b93ec3f04c95f1f4979528346
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - joystick: {instanceID: 0}
+  - invHolder: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  - timer: {instanceID: 0}
+  - inventoryScript: {instanceID: 0}
+  - enemyPointer: {instanceID: 0}
+  - enemyHealthBar: {instanceID: 0}
+  - doorPointer: {instanceID: 0}
+  - playerHealth: {instanceID: 0}
+  - enemyHealth: {instanceID: 0}
+  - playerObject: {instanceID: 0}
+  - enemyObject: {instanceID: 0}
+  - NextLevelTriggerTransform: {instanceID: 0}
+  - Sky: {fileID: 1247829384970790527, guid: 40a4cd4e501067246b0a77517b767f35, type: 3}
+  - playerAnimator: {instanceID: 0}
+  - grannyAnimator: {instanceID: 0}
+  - doorAnimator: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

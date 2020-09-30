@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2764405347221990991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2764405347221990990}
+  - component: {fileID: 2764405347221990989}
+  m_Layer: 0
+  m_Name: TextureLoader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2764405347221990990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2764405347221990991}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.1514045, y: 5.3971896, z: -0.92004216}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2764405347221990989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2764405347221990991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f3fb50c61015c54b87b3d5da7115705, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  editorChapterNumber: 1
+  editorObjRef: {fileID: 6375708778553226300, guid: 8e05169ea539fca4195b18ebd8656dd1,
+    type: 3}
+  editorObjTextures:
+  - {fileID: 2800000, guid: c6219c0f5654602488d19d3f83ebe3ed, type: 3}
+  - {fileID: 2800000, guid: 72f7dac2edae7f24684607bb9b0fc9eb, type: 3}
+  editorCheckSpecificChapter: 0
+  editorSetAsASet: 1
+  textureSets:
+  - chapter: 1
+    objRef: {fileID: -8365129639449590315, guid: 0cd1cc217ec8a7c4abe1ab86d060718d,
+      type: 3}
+    textures:
+    - {fileID: 2800000, guid: 883f8865589c0d74e8fde69bbd01bd3d, type: 3}
+    - {fileID: 2800000, guid: ba5ee50a3615bba4b8288a79ae8a30ca, type: 3}
+    setAsASet: 0
+  - chapter: 1
+    objRef: {fileID: 2619086233303812490, guid: b62a3835b9f45ea4d96b9cef94653542,
+      type: 3}
+    textures:
+    - {fileID: 2800000, guid: 196812400507ae84b89e29c7ef2ac484, type: 3}
+    - {fileID: 2800000, guid: 660490d5ad68cb44c837d777b6bffcef, type: 3}
+    - {fileID: 2800000, guid: 91ae84a30abccf94c9e0ae95ea13f310, type: 3}
+    - {fileID: 2800000, guid: 01ab8f345a7bc2448af59c5853846f37, type: 3}
+    - {fileID: 2800000, guid: dc04b4005b8eb7641852a58d4f80a09e, type: 3}
+    setAsASet: 0
+  - chapter: 1
+    objRef: {fileID: -5154135804268034902, guid: 00dfffe0158c96d48808bc31a2e9412d,
+      type: 3}
+    textures:
+    - {fileID: 2800000, guid: 616af2efe38e136428b5471367fcd3c2, type: 3}
+    - {fileID: 2800000, guid: 0ae5cebef0b303a418b9d87a3f526820, type: 3}
+    setAsASet: 0
+  - chapter: 1
+    objRef: {fileID: -5154135804268034902, guid: 9beee942ac14d9549bfdbc287a3f3926,
+      type: 3}
+    textures:
+    - {fileID: 2800000, guid: 8981dc22c0feef04db1839b4047b40cf, type: 3}
+    - {fileID: 2800000, guid: 8346675ffc198a7479ea60342f646b4b, type: 3}
+    setAsASet: 0
+  - chapter: 1
+    objRef: {fileID: 310187898658716307, guid: 7906b39bfa2b8134b9ef6b7a33cce62f, type: 3}
+    textures:
+    - {fileID: 2800000, guid: 2fce6c73dda528b47a987e5617b52996, type: 3}
+    - {fileID: 2800000, guid: 5b003bb58f4be6c438e8594172f528ee, type: 3}
+    - {fileID: 2800000, guid: bc89a6248fb71004c9021c348ca0688f, type: 3}
+    setAsASet: 0
+  - chapter: 1
+    objRef: {fileID: 6544403911430536695, guid: c6c052fab79ca7d4fbccd9c8ca977ee6,
+      type: 3}
+    textures:
+    - {fileID: 2800000, guid: e3bd1f6b3361e4347a261838573a4822, type: 3}
+    - {fileID: 2800000, guid: f0ce76caa4663d54cacda62813924e5c, type: 3}
+    - {fileID: 2800000, guid: 736f93fca1679794cb39b1f1fd0c36df, type: 3}
+    setAsASet: 0
+  - chapter: 1
+    objRef: {fileID: -2890223716466119291, guid: b62a3835b9f45ea4d96b9cef94653542,
+      type: 3}
+    textures:
+    - {fileID: 2800000, guid: 3597bd5465854e442a2f9951a16d03a9, type: 3}
+    - {fileID: 2800000, guid: e5718e0fd91b5c74aaa8bca86998aa3b, type: 3}
+    setAsASet: 0
+  - chapter: 1
+    objRef: {fileID: 6375708778553226300, guid: 8e05169ea539fca4195b18ebd8656dd1,
+      type: 3}
+    textures:
+    - {fileID: 2800000, guid: c6219c0f5654602488d19d3f83ebe3ed, type: 3}
+    - {fileID: 2800000, guid: 72f7dac2edae7f24684607bb9b0fc9eb, type: 3}
+    setAsASet: 1

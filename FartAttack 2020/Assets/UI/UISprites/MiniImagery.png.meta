@@ -1,0 +1,472 @@
+fileFormatVersion: 2
+guid: b0b8203005014214782f21c7c576cd9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4063462992388984672
+    second: Button_Up
+  - first:
+      213: 4019158706363881454
+    second: Button_Down
+  - first:
+      213: 4655046632938707027
+    second: Home_Icon
+  - first:
+      213: 8059810018816390019
+    second: Pause_Icon
+  - first:
+      213: 703206097743410265
+    second: Play_Icon
+  - first:
+      213: 1011254059282303055
+    second: Music_Icon
+  - first:
+      213: 2679617104002872164
+    second: Cross_Icon
+  - first:
+      213: -2409747175181220029
+    second: NextArrow
+  - first:
+      213: 2480876672931678612
+    second: RestartButton
+  - first:
+      213: -6078758868211724441
+    second: Bear_Full
+  - first:
+      213: 2410945883749277645
+    second: Bear_Grey
+  - first:
+      213: -51219202889939178
+    second: Clock_Full
+  - first:
+      213: -312029110892714186
+    second: Clock_Grey
+  - first:
+      213: -6352214760830213211
+    second: Faint_Full
+  - first:
+      213: 202092912781217969
+    second: Faint_Grey
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Button_Up
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 912
+        width: 111
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6030303}
+      border: {x: 50, y: 84, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11f9a6d6d3b854aa36b732fdd1f4b6
+      internalID: -4063462992388984672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_Down
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 912
+        width: 111
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5212121}
+      border: {x: 50, y: 84, z: 50, w: 50}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50c9ef210abe2f4fbd30e82026c5f37
+      internalID: 4019158706363881454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home_Icon
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 568
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.4326278, y: 0.576988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7eb65fb00ad3447ad031054c73d8a7
+      internalID: 4655046632938707027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause_Icon
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 859
+        width: 232
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5816327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab21678a0b7f0d14a9a2aefcab1074d3
+      internalID: 8059810018816390019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_Icon
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 651
+        width: 226
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4719626, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3f1f8ec5890448afac75cd2fd6f0b
+      internalID: 703206097743410265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music_Icon
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 288
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26aa36673b20343ac328ed2ad6e6f5
+      internalID: 1011254059282303055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross_Icon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7316b5f14f25844968f526126fda02
+      internalID: 2679617104002872164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextArrow
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 811
+        width: 480
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a79da2a5075634380e8979a0625780
+      internalID: -2409747175181220029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RestartButton
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 386
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba5c7137c5fd14ba36436821281bb5
+      internalID: 2480876672931678612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Full
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 636
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ffc61f240e34f469197aee51184e27
+      internalID: -6078758868211724441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear_Grey
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 492
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0d57ac2af3874cbbd5d0d7a8a264e
+      internalID: 2410945883749277645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock_Full
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 633
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4479267769f2df04fa35ab8a0f5d86cc
+      internalID: -51219202889939178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clock_Grey
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 489
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576f63a79d4adc4abc19146bda9ed08
+      internalID: -312029110892714186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint_Full
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 621
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da4f4a5d925ea541932687f572b048b
+      internalID: -6352214760830213211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Faint_Grey
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 479
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590f92a33763f92498281eb0a213d1d5
+      internalID: 202092912781217969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9956a7870a8c0249a6bb3c39e86d63c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
